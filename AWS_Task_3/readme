@@ -1,0 +1,1 @@
+This directory has a lambda script which connects to cloudwatch to display logs of changes done in s3 bucket. Lambda is triggered by the s3 bucket.
